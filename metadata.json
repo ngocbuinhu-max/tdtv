@@ -1,0 +1,6 @@
+{
+  "name": "Game Học Động Từ To Be",
+  "description": "Ứng dụng trò chơi học và ôn tập tiếng Anh về động từ tobe (am, is, are) tích hợp lớp lý thuyết, đấu trường trắc nghiệm, game bắn thiên thạch rèn tốc độ phản xạ và trợ lý ảo AI đàm thoại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
